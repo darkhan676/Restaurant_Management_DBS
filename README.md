@@ -1,5 +1,4 @@
 # Restaurant_Management_DBS
-OOP_Project
 Hello! This is a project about Restaurant DBMS.
 Short description of the project: Purpose of the project: To make it easier to book a restaurant for different events. Potential customers can leave their contacts for further booking. Can book a restaurant for a certain date with a certain number of seats. The software automatically determines whether the restaurant is available on the date entered by the client. The client can then see the price list of the restaurant.  It all depends on the menu selection and whether the client needs a host. If all goes well all booking data will be entered into the database. After the event, all contacts and customer and event data can be deleted from the database.
 
