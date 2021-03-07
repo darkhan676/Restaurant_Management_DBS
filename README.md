@@ -10,4 +10,4 @@ SQL_database_connection : Connection with Database
 
 This Project we have done together : Darkhan Makyzhan and Bagdat Bekbayev.
 Darkhan Makyzhan : Created Main.java, Run_ner.java, Purchaser_possibilities, Purchaser_order.java,Database_interface.java Made a presentation for the defence.
-Bagdat Bekbayev : Created Vista_bar.java, Purchaser.java, Purchaser_commands,java, SQL_database_connection.java, Made a ERD diagram and diagram of classes.
+Bagdat Bekbayev : Created Vista_bar.java,o_r_d_e_r_list.java, Purchaser.java, Purchaser_commands,java, SQL_database_connection.java, Made a ERD diagram and diagram of classes.
